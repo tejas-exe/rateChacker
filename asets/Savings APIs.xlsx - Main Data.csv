@@ -1,0 +1,475 @@
+Account Name,Bank,API URL,Product ID,API Result,Pension,Youth,Cash Management,SMSF,Christmas
+MySaver Account ,Adelaide Bank,https://api.cdr.adelaidebank.com.au/cds-au/v1,674d4369-33ba-4ccf-88e5-731f0e322f99,Succeeded,No,No,No,No,No
+Savings,Alex Bank Pty Limited,https://public.cdr.alex.bank/cds-au/v1,086e30f2-dbbb-4252-a3a6-73848456b2cb,Succeeded,No,No,No,No,No
+AMP Saver Account,AMP Bank Ltd,https://api.cdr-api.amp.com.au/cds-au/v1,AMP_SAVER,Succeeded,No,No,No,No,No
+AMP SuperEdge Saver Account,AMP Bank Ltd,https://api.cdr-api.amp.com.au/cds-au/v1,AMP_SUPEREDGE_SAVER_ACCOUNT,Succeeded,No,No,No,Yes,No
+AMP SuperEdge Pension Account,AMP Bank Ltd,https://api.cdr-api.amp.com.au/cds-au/v1,AMP_SUPEREDGE_PENSION_ACCOUNT,Succeeded,Yes,No,No,No,No
+Personal Online Savings Account,Arab Bank Australia Limited,https://open-banking.australianunity.com.au/cds-au/v1,POSA01,Succeeded,No,No,No,No,No
+ANZ Pensioner Advantage Account,Australia and New Zealand Banking Group Limited,https://api.anz/cds-au/v1,f9ec7ae4-f606-0e91-9403-d6ce664eb765,Succeeded,Yes,No,No,No,No
+ANZ Online Saver,Australia and New Zealand Banking Group Limited,https://api.anz/cds-au/v1,3776f456-9612-1354-70db-a165f84ef653,Succeeded,No,No,No,No,No
+ANZ Progress Saver,Australia and New Zealand Banking Group Limited,https://api.anz/cds-au/v1,e9a3b4fe-240c-388e-2282-42db8f570e63,Succeeded,No,No,No,No,No
+ANZ SMSF Cash Hub Account,Australia and New Zealand Banking Group Limited,https://api.anz/cds-au/v1,ef5d9d5e-f822-4e9f-8b95-f0683115539f,Succeeded,No,No,No,Yes,No
+Online Saver,Australian Military Bank Ltd,https://public.open.australianmilitarybank.com.au/cds-au/v1,9d1888b8-097d-4c21-849f-730bfaace6c3,Succeeded,No,No,No,No,No
+Recruit Salary Saver,Australian Military Bank Ltd,https://public.open.australianmilitarybank.com.au/cds-au/v1,a1a3eba2-34ff-45f2-b097-905a0f845834,Succeeded,No,Yes,No,No,No
+Junior Saver,Australian Military Bank Ltd,https://public.open.australianmilitarybank.com.au/cds-au/v1,f541d5ed-51df-4c4d-8e8c-2d2e70f18e4e,Succeeded,No,Yes,No,No,No
+Star Saver Direct,Australian Military Bank Ltd,https://public.open.australianmilitarybank.com.au/cds-au/v1,c210a3d5-7b89-4233-a9f6-fd0a65c31842,Succeeded,No,No,No,No,No
+Capital Guaranteed Pension Account,Australian Military Bank Ltd,https://public.open.australianmilitarybank.com.au/cds-au/v1,cc36cf83-266d-4537-8c71-325313bf07c4,Succeeded,Yes,No,No,No,No
+Pension Access Account,Australian Military Bank Ltd,https://public.open.australianmilitarybank.com.au/cds-au/v1,d397f2bc-69e8-4bbc-b5ec-b990ba568d9c,Succeeded,Yes,No,No,No,No
+Capital Guaranteed Super,Australian Military Bank Ltd,https://public.open.australianmilitarybank.com.au/cds-au/v1,a7d9a6dc-8261-4252-978b-66bb95bec20c,Succeeded,No,No,No,Yes,No
+DIY Super Saver,Australian Military Bank Ltd,https://public.open.australianmilitarybank.com.au/cds-au/v1,3c42c73d-8632-4304-9f0e-132ad5f1ab42,Succeeded,No,No,No,Yes,No
+PENSIONER AWARE,Australian Mutual Bank Limited,https://internetbanking.australianmutual.bank/openbanking/cds-au/v1,AMB_Pensioner_Aware_Single,Succeeded,Yes,No,No,No,No
+SAVINGS MOTIVATOR,Australian Mutual Bank Limited,https://internetbanking.australianmutual.bank/openbanking/cds-au/v1,AMB_Savings_Motivator,Succeeded,No,No,No,No,No
+YOUNG SAVER ACCOUNT,Australian Mutual Bank Limited,https://internetbanking.australianmutual.bank/openbanking/cds-au/v1,AMB_Young_Saver_Account,Succeeded,No,Yes,No,No,No
+iNetSaver Account,Australian Mutual Bank Limited,https://internetbanking.australianmutual.bank/openbanking/cds-au/v1,AMB_iNetSaver_Account,Succeeded,No,No,No,No,No
+Active Saver,Australian Unity Bank Limited,https://open-banking.australianunity.com.au/cds-au/v1,S36_Savings_ActiveSaver,Succeeded,No,No,No,No,No
+Freedom Saver,Australian Unity Bank Limited,https://open-banking.australianunity.com.au/cds-au/v1,S37_Savings_FreedomSaver,Succeeded,No,No,No,No,No
+Easy Saver,Australian Unity Bank Limited,https://open-banking.australianunity.com.au/cds-au/v1,S38_Savings_EasySaver,Succeeded,No,No,No,No,No
+Kids Saver,Australian Unity Bank Limited,https://open-banking.australianunity.com.au/cds-au/v1,S49_Savings_KidsSaver,Succeeded,No,Yes,No,No,No
+ONLINE SAVER,Auswide Bank Ltd,https://api.auswidebank.com.au/OpenBanking/cds-au/v1,4bc606d6-2ed5-4ff4-8404-5f48609536e8,Succeeded,No,No,No,No,No
+BONUS PLUS SAVER,Auswide Bank Ltd,https://api.auswidebank.com.au/OpenBanking/cds-au/v1,4a276227-7f7a-4cac-a018-88138b099a8e,Succeeded,No,No,No,No,No
+ZIGGY KIDS SAVER,Auswide Bank Ltd,https://api.auswidebank.com.au/OpenBanking/cds-au/v1,516f4dc2-271b-4812-91ce-fdb9a6eb6c04,Succeeded,No,Yes,No,No,No
+CASH MANAGEMENT,Auswide Bank Ltd,https://api.auswidebank.com.au/OpenBanking/cds-au/v1,60f02256-3125-4a50-964f-bdb862efdd4e,Succeeded,No,No,Yes,No,No
+SELF-MANAGED SUPER FUND,Auswide Bank Ltd,https://api.auswidebank.com.au/OpenBanking/cds-au/v1,2a8b2cf9-0e9a-49a3-bb3a-aeab5a62042d,Succeeded,No,No,No,Yes,No
+EVERYDAY PENSION ACCOUNT,Auswide Bank Ltd,https://api.auswidebank.com.au/OpenBanking/cds-au/v1,50c95686-e192-43d4-9fcb-a058c7b179d6,Succeeded,Yes,No,No,No,No
+NATIONAL SENIORS AUSTRALIA MONEY MANAGER ACCOUNT,Auswide Bank Ltd,https://api.auswidebank.com.au/OpenBanking/cds-au/v1,73a44d40-679a-44ec-aff1-67a5de45cf69,Succeeded,Yes,No,No,No,No
+Pensioner Account,AWA Alliance Bank,https://api.cdr.awaalliancebank.com.au/cds-au/v1,1c3691ae-6fcd-4099-93bf-b5c8e52df292,Succeeded,Yes,No,No,No,No
+Youth Account,AWA Alliance Bank,https://api.cdr.awaalliancebank.com.au/cds-au/v1,b1ab1df5-cb60-436e-b055-1dfe2b4214dc,Succeeded,No,Yes,No,No,No
+Online Saver Account,AWA Alliance Bank,https://api.cdr.awaalliancebank.com.au/cds-au/v1,0dba733e-bc8e-4fb1-ae3a-bbbd96b68cc8,Succeeded,No,No,No,No,No
+Pensioner Account,AWA Alliance Bank,https://api.cdr.awaalliancebank.com.au/cds-au/v1,1c3691ae-6fcd-4099-93bf-b5c8e52df292,Succeeded,Yes,No,No,No,No
+Online Saver,Bank Australia Limited,https://cds.api.bankaust.com.au/cds-au/v1,Product121,Succeeded,No,No,No,No,No
+Bonus Saver,Bank Australia Limited,https://cds.api.bankaust.com.au/cds-au/v1,Product123,Succeeded,No,No,No,No,No
+mySaver,Bank Australia Limited,https://cds.api.bankaust.com.au/cds-au/v1,Product103,Succeeded,No,Yes,No,No,No
+Christmas Saver,Bank Australia Limited,https://cds.api.bankaust.com.au/cds-au/v1,Product125,Succeeded,No,No,No,No,Yes
+Pension Access,Bank Australia Limited,https://cds.api.bankaust.com.au/cds-au/v1,Product109,Succeeded,Yes,No,No,No,No
+First Home Bonus Saver Account,Bank First,https://public.cdr.bankfirst.com.au/cds-au/v1,6512a9e8-baef-49b8-b8b2-ee2ee97ee50e,Succeeded,No,No,No,No,No
+Pension Account,Bank First,https://public.cdr.bankfirst.com.au/cds-au/v1,523398f7-b767-446a-b4f7-ee26025a82ba,Succeeded,Yes,No,No,No,No
+Online Saver Account,Bank First,https://public.cdr.bankfirst.com.au/cds-au/v1,c4738728-0e16-4957-b37b-5547a99d56c4,Succeeded,No,No,No,No,No
+First Saver Account,Bank First,https://public.cdr.bankfirst.com.au/cds-au/v1,2e9788d2-636a-4c59-9f2b-1e23935028ff,Succeeded,No,Yes,No,No,No
+Christmas Club Account,Bank First,https://public.cdr.bankfirst.com.au/cds-au/v1,6690c88c-04b8-4c36-8a56-cec0909f8ad4,Succeeded,No,No,No,No,Yes
+Cash Management Account,Bank First,https://public.cdr.bankfirst.com.au/cds-au/v1,625c81d6-bc13-4c5b-a175-35df54187dfc,Succeeded,No,No,Yes,No,No
+First Access Account,Bank First,https://public.cdr.bankfirst.com.au/cds-au/v1,e0589ed4-b32b-4d7d-9c60-2ad88b038e11,Succeeded,No,No,No,No,Yes
+Online Saver,Bank of China (Australia) Limited,https://obdevp.bank-of-china.net.au/cds-au/v1,55940657,Succeeded,No,No,No,No,No
+Savings Plus Account,Bank of Heritage Isle (comes from Police Bank API feed),https://product.api.policebank.com.au/cds-au/v1,54a27821-f707-4309-b280-cbdffa761c44,Succeeded,No,No,No,No,No
+Bonus Saver Account,Bank of Heritage Isle (comes from Police Bank API feed),https://product.api.policebank.com.au/cds-au/v1,d2a138d3-3132-4cff-a9f1-270a81c4d86a,Succeeded,No,No,No,No,No
+Retirement Plus Account,Bank of Heritage Isle (comes from Police Bank API feed),https://product.api.policebank.com.au/cds-au/v1,23b10b34-079a-4a1d-aee8-ab6044c7e922,Succeeded,Yes,No,No,No,No
+Dynamo/Flex Account,Bank of Heritage Isle (comes from Police Bank API feed),https://product.api.policebank.com.au/cds-au/v1,6341c6a9-3516-4c9c-b43e-b26db13f4a76,Succeeded,No,Yes,No,No,No
+Incentive Saver,Bank of Melbourne,https://digital-api.bankofmelbourne.com.au/cds-au/v1,BOMSavIncentiveSaver,Succeeded,No,No,No,No,No
+Maxi Saver,Bank of Melbourne,https://digital-api.bankofmelbourne.com.au/cds-au/v1,BOMSavMaxiSaver,Succeeded,No,No,No,No,No
+Retirement Access Account,Bank of Melbourne,https://digital-api.bankofmelbourne.com.au/cds-au/v1,BOMTrRetirementAccess,Succeeded,Yes,No,No,No,No
+Future Saver Account,Bank of Queensland Limited,https://secure.api.boq.com.au/cds-au/v1,69B41A76-51B7-4765-984A-7CDDD3494268,Succeeded,No,Yes,No,No,No
+Smart Saver Account,Bank of Queensland Limited,https://secure.api.boq.com.au/cds-au/v1,D8D6A867-871A-4190-BB43-6FFE18E00919,Succeeded,No,No,No,No,No
+Simple Saver Account,Bank of Queensland Limited,https://secure.api.boq.com.au/cds-au/v1,EAA197D3-9CC8-4764-BD80-3A946909409C,Succeeded,No,No,No,No,No
+Fast Track Starter,Bank of Queensland Limited,https://secure.api.boq.com.au/cds-au/v1,692426A9-74ED-4528-849F-F098C4839385,Succeeded,No,Yes,No,No,No
+Fast Track Saver Account,Bank of Queensland Limited,https://secure.api.boq.com.au/cds-au/v1,C69E6590-BA09-4B4A-9842-EC66EB8C405A,Succeeded,No,No,No,No,No
+WebSavings Account,Bank of Queensland Limited,https://secure.api.boq.com.au/cds-au/v1,EAD5402A-7681-4315-9C35-34A451064CE7,Succeeded,No,No,No,No,No
+Bonus Interest Savings,Bank of Queensland Limited,https://secure.api.boq.com.au/cds-au/v1,9DC4381A-22B7-4170-8A5A-D2B3278E93B2,Succeeded,No,No,No,No,No
+Kids Savings Account,Bank of Queensland Limited,https://secure.api.boq.com.au/cds-au/v1,0547A340-1687-4286-9E7A-D10A6CE29F11,Succeeded,No,Yes,No,No,No
+Superannuation Savings Account,Bank of Queensland Limited,https://secure.api.boq.com.au/cds-au/v1,63F65EF6-86FF-4B3A-BB75-3634150A6637,Succeeded,No,No,No,Yes,No
+Retirement Account,Bank of Sydney Ltd,https://openbank.api.banksyd.com.au/cds-au/v1,retirement_account,Succeeded,Yes,No,No,No,No
+BOS Saver,Bank of Sydney Ltd,https://openbank.api.banksyd.com.au/cds-au/v1,bos_saver_account,Succeeded,No,No,No,No,No
+Everyday Saver Account,Bank of Sydney Ltd,https://openbank.api.banksyd.com.au/cds-au/v1,everyday_saver,Succeeded,No,No,No,No,No
+SmartNet Account,Bank of Sydney Ltd,https://openbank.api.banksyd.com.au/cds-au/v1,smartnet_account,Succeeded,No,No,No,No,No
+Stash n Splash,Bank of Us,https://api.bankofus.com.au/OpenBanking,Stash_n_Splash,Succeeded,No,No,No,No,No
+Pension Advantage,Bank of Us,https://api.bankofus.com.au/OpenBanking,Pension_Advantage,Succeeded,Yes,No,No,No,No
+Save up,Bank of Us,https://api.bankofus.com.au/OpenBanking,Save_up,Succeeded,No,No,No,No,No
+Go to,Bank of Us,https://api.bankofus.com.au/OpenBanking,Go_to,Succeeded,No,No,No,No,No
+Incentive Saver,BankSA,https://digital-api.banksa.com.au,BSASavIncentiveSaver,Succeeded,No,No,No,No,No
+Maxi Saver,BankSA,https://digital-api.banksa.com.au,BSASavMaxiSaver,Succeeded,No,No,No,No,No
+Retirement Access Account,BankSA,https://digital-api.banksa.com.au,BSATrRetirementAccess,Succeeded,Yes,No,No,No,No
+Little Copper Club,BankVic,https://ib.bankvic.com.au/openbanking/cds-au/v1,S3_Savings_Little_Copper_Club,Succeeded,No,Yes,No,No,No
+Pension Plus,BankVic,https://ib.bankvic.com.au/openbanking/cds-au/v1,S10_Savings_Pension,Succeeded,Yes,No,No,No,No
+Bonus Saver,BankVic,https://ib.bankvic.com.au/openbanking/cds-au/v1,S8_Savings_Bonus,Succeeded,No,No,No,No,No
+EasyInvest Saver,BankVic,https://ib.bankvic.com.au/openbanking/cds-au/v1,S7_Savings_Online,Succeeded,No,No,No,No,No
+SMSF Saver,BankVic,https://ib.bankvic.com.au/openbanking/cds-au/v1,S40_Savings_SMSF,Succeeded,No,No,No,Yes,No
+WAW Everyday Saver,BankWAW ,https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1,WAW_Everyday_Saver,Succeeded,No,No,No,No,No
+WAW Bonus Saver,BankWAW ,https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1,WAW_Bonus_Saver,Succeeded,No,No,No,No,No
+WAW Christmas Saver,BankWAW ,https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1,WAW_Christmas_Saver,Succeeded,No,No,No,No,Yes
+Star Saver,BankWAW ,https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1,Star_Saver,Succeeded,No,Yes,No,No,No
+WAW Youth Saver,BankWAW ,https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1,WAW_Youth_Saver,Succeeded,No,Yes,No,No,No
+Youth Saver,BankWAW ,https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1,YOUTH_SAVER,Succeeded,No,Yes,No,No,No
+Star Saver,BankWAW ,https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1,WAW_Star_Saver,Succeeded,No,Yes,No,No,No
+Christmas Club,BankWAW ,https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1,Christmas_Club,Succeeded,No,No,No,No,Yes
+Bankwest Easy Saver,Bankwest,https://open-api.bankwest.com.au/bwpublic/cds-au/v1,d10438974ab8417bab388149da5053bb,Succeeded,No,No,No,No,No
+Hero Saver,Bankwest,https://open-api.bankwest.com.au/bwpublic/cds-au/v1,b7c55febbeab43e1b0969f28c617f780,Succeeded,No,No,No,No,No
+Bankwest Smart eSaver,Bankwest,https://open-api.bankwest.com.au/bwpublic/cds-au/v1,4ba20b01dac7420fb8bd45216b0d885b,Succeeded,No,No,No,No,No
+Retirement Advantage Account,Bankwest,https://open-api.bankwest.com.au/bwpublic/cds-au/v1,b54379a0c72b4129887a85e7b629b3af,Succeeded,Yes,No,No,No,No
+Bell Potter Cash Management Service,Bell Potter,https://bellpotter.openportal.com.au/cds-au/v1,CM001BELCMA001,Succeeded,No,No,Yes,No,No
+Bendigo EasySaver,Bendigo Bank,https://api.cdr.bendigobank.com.au/cds-au/v1,c2044188-1f73-46d9-95e6-5852f3fb4d92,Succeeded,No,No,No,No,No
+Bendigo Reward Saver,Bendigo Bank,https://api.cdr.bendigobank.com.au/cds-au/v1,cb6f3716-4e76-4e5b-b79d-0720756a21ac,Succeeded,No,No,No,No,No
+Bendigo PiggySaver,Bendigo Bank,https://api.cdr.bendigobank.com.au/cds-au/v1,e7e9fe9a-f9e9-4316-a78f-8f00a1850daf,Succeeded,No,Yes,No,No,No
+Bendigo Easy Retirement Account,Bendigo Bank,https://api.cdr.bendigobank.com.au/cds-au/v1,127b2ef2-a72c-4d51-bb46-cafe5f9bef42,Succeeded,Yes,No,No,No,No
+Bendigo Christmas Club Account,Bendigo Bank,https://api.cdr.bendigobank.com.au/cds-au/v1,4372b3ed-b00b-437a-8c1e-86c0ffcafe0a,Succeeded,No,No,No,No,Yes
+monEsaver Internet Account,Beyond Bank Australia,https://public.cdr.api.beyondbank.com.au/cds-au/v1,3,Succeeded,No,No,No,No,No
+Purple Bonus Saver,Beyond Bank Australia,https://public.cdr.api.beyondbank.com.au/cds-au/v1,32,Succeeded,No,No,No,No,No
+Community Reward Account,Beyond Bank Australia,https://public.cdr.api.beyondbank.com.au/cds-au/v1,4,Succeeded,No,No,No,No,No
+Retirement Account,Beyond Bank Australia,https://public.cdr.api.beyondbank.com.au/cds-au/v1,2,Succeeded,Yes,No,No,No,No
+Community Account,Beyond Bank Australia,https://public.cdr.api.beyondbank.com.au/cds-au/v1,10,Succeeded,No,No,No,No,No
+BU Account,Beyond Bank Australia,https://public.cdr.api.beyondbank.com.au/cds-au/v1,5,Succeeded,No,Yes,No,No,No
+Savings Plus Account,Border Bank Ltd (comes from Police Bank API feed),https://product.api.policebank.com.au/cds-au/v1,1db089b0-6705-4b1c-88e5-269511c72077,Succeeded,No,No,No,No,No
+Bonus Saver Account,Border Bank Ltd (comes from Police Bank API feed),https://product.api.policebank.com.au/cds-au/v1,07ddb3f7-4488-4fef-bba9-d0566b410302,Succeeded,No,No,No,No,No
+Retirement Plus Account,Border Bank Ltd (comes from Police Bank API feed),https://product.api.policebank.com.au/cds-au/v1,b1d3f2e4-9b5d-4bbe-8d94-250223ecbe3f,Succeeded,No,No,No,No,No
+Dynamo/Flex Account,Border Bank Ltd (comes from Police Bank API feed),https://product.api.policebank.com.au/cds-au/v1,61bb1665-1a1c-4bf6-b236-1a4d2011e526,Succeeded,No,Yes,No,No,No
+Santa Saver Account,Broken Hill Community Credit Union,https://public.cdr-api.bhccu.com.au/cds-au/v1,21,Succeeded,No,No,No,No,Yes
+eCall Savings Account,Broken Hill Community Credit Union,https://public.cdr-api.bhccu.com.au/cds-au/v1,20,Succeeded,No,No,No,No,No
+Busy Bee Account,Broken Hill Community Credit Union,https://public.cdr-api.bhccu.com.au/cds-au/v1,45,Succeeded,No,Yes,No,No,No
+Super Youth Saver,Broken Hill Community Credit Union,https://public.cdr-api.bhccu.com.au/cds-au/v1,46,Succeeded,No,Yes,No,No,No
+Childrens saver account,Cairns Penny Savings & Loans Limited (Cairns Bank),https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1,S16,Succeeded,No,Yes,No,No,No
+Christmas Club Account,Cairns Penny Savings & Loans Limited (Cairns Bank),https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1,S6,Succeeded,No,No,No,No,Yes
+Internet Saver account,Cairns Penny Savings & Loans Limited (Cairns Bank),https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1,S7,Succeeded,No,No,No,No,No
+Pensioner Account,Cairns Penny Savings & Loans Limited (Cairns Bank),https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1,S5,Succeeded,Yes,No,No,No,No
+CHRISTMAS CLUB ACCOUNT,Central Murray Credit Union Limited,https://secure.cmcu.com.au/openbanking,S5_Std,Succeeded,No,No,No,No,Yes
+SUPER SAVER ACCOUNT,Central Murray Credit Union Limited,https://secure.cmcu.com.au/openbanking,S6_Std,Succeeded,No,Yes,No,No,No
+PENSIONER JOINT,Central Murray Credit Union Limited,https://secure.cmcu.com.au/openbanking,S66_Std,Succeeded,Yes,No,No,No,No
+PENSIONER SINGLE,Central Murray Credit Union Limited,https://secure.cmcu.com.au/openbanking,S65_Std,Succeeded,Yes,No,No,No,No
+S4 Christmas Club Account,Central West Credit Union Limited,https://secure.cmcu.com.au/openbanking,Christmas_Account,Succeeded,No,No,No,No,Yes
+S5 Community Proud Account,Central West Credit Union Limited,https://ib.cwcu.com.au/openbanking/cds-au/v1,Community_Proud,Succeeded,No,No,No,No,No
+S8 E Access Saver Account,Central West Credit Union Limited,https://ib.cwcu.com.au/openbanking/cds-au/v1,E_Access,Succeeded,No,No,No,No,No
+S6 Golden Account,Central West Credit Union Limited,https://ib.cwcu.com.au/openbanking/cds-au/v1,Golden_Account,Succeeded,Yes,No,No,No,No
+S14 Pocket Rocket School Account,Central West Credit Union Limited,https://ib.cwcu.com.au/openbanking/cds-au/v1,POCKET_ROCKET,Succeeded,No,Yes,No,No,No
+S10 Cash Management Account,Central West Credit Union Limited,https://ib.cwcu.com.au/openbanking/cds-au/v1,Cash_Management,Succeeded,No,No,Yes,No,No
+MySavings account,Challenger Bank Limited (previously MyLifeMyFinance Limited),https://api.openbanking.challenger.com.au/cds-au/v1,S02.1,Succeeded,No,No,No,No,No
+Bonus Reward Saver,Coastline Credit Union Limited,https://public.cdr-api.coastline.com.au/cds-au/v1,3,Succeeded,No,No,No,No,No
+E-Saver,Coastline Credit Union Limited,https://public.cdr-api.coastline.com.au/cds-au/v1,5,Succeeded,No,No,No,No,No
+Christmas Club,Coastline Credit Union Limited,https://public.cdr-api.coastline.com.au/cds-au/v1,14,Succeeded,No,No,No,No,Yes
+Cubs Access Account,Coastline Credit Union Limited,https://public.cdr-api.coastline.com.au/cds-au/v1,57,Succeeded,No,Yes,No,No,No
+Kickstart Access Account,Coastline Credit Union Limited,https://public.cdr-api.coastline.com.au/cds-au/v1,59,Succeeded,No,Yes,No,No,No
+NetBank Saver,Commonwealth Bank of Australia,https://api.commbank.com.au/public/cds-au/v1,ad22b1f0967349e8a5d586afe7f0d845,Succeeded,No,No,No,No,No
+GoalSaver,Commonwealth Bank of Australia,https://api.commbank.com.au/public/cds-au/v1,72f214498c7f47a98fe59b794e7c01ab,Succeeded,No,No,No,No,No
+Youthsaver Account,Commonwealth Bank of Australia,https://api.commbank.com.au/public/cds-au/v1,7aff9e0e85e6450eb052d4ff2e953223,Succeeded,No,Yes,No,No,No
+Pensioner Security,Commonwealth Bank of Australia,https://api.commbank.com.au/public/cds-au/v1,7375f63775b4489a890655e25395e12d,Succeeded,Yes,No,No,No,No
+BONUS SAVER,Community First Bank,https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1,S9-BS,Succeeded,No,No,No,No,No
+CHRISTMAS CRACKER ACCOUNT,Community First Bank,https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1,S5-CC,Succeeded,No,No,No,No,Yes
+MATRIMONEY ACCOUNT,Community First Bank,https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1,S26-MTM,Succeeded,No,No,No,No,No
+RETIREMENT PLUS ACCOUNT,Community First Bank,https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1,S4-RP,Succeeded,Yes,No,No,No,No
+JUNIOR SAVER ACCOUNT,Community First Bank,https://netbank.communityfirst.com.au/cf-openbanking/cds-au/v1,S18-JS,Succeeded,No,Yes,No,No,No
+Advantage Saver,Credit Union Australia Ltd (trading as Great Southern Bank),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-3300,Succeeded,No,No,No,No,No
+Everyday 50+ Account,Credit Union Australia Ltd (trading as Great Southern Bank),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-2600,Succeeded,Yes,No,No,No,No
+Goal Saver,Credit Union Australia Ltd (trading as Great Southern Bank),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-3200,Succeeded,No,No,No,No,No
+Home Saver,Credit Union Australia Ltd (trading as Great Southern Bank),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-3100,Succeeded,No,No,No,No,No
+Youth eSaver,Credit Union Australia Ltd (trading as Great Southern Bank),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-2000,Succeeded,No,Yes,No,No,No
+eSaver Flexi,Credit Union Australia Ltd (trading as Great Southern Bank),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-2300,Succeeded,No,No,No,No,No
+Children's Savings Account,Credit Union SA Ltd,https://openbanking.api.creditunionsa.com.au/cds-au/v1,CREDITUNIONSA_SAV_134,Succeeded,No,Yes,No,No,No
+Bonus Savings Account,Credit Union SA Ltd,https://openbanking.api.creditunionsa.com.au/cds-au/v1,CREDITUNIONSA_SAV_109,Succeeded,No,No,No,No,No
+55+ Account,Credit Union SA Ltd,https://openbanking.api.creditunionsa.com.au/cds-au/v1,CREDITUNIONSA_SAV_112,Succeeded,Yes,No,No,No,No
+Netsave Account,Credit Union SA Ltd,https://openbanking.api.creditunionsa.com.au/cds-au/v1,CREDITUNIONSA_SAV_142,Succeeded,No,No,No,No,No
+Teen Saver,Defence Bank Limited,https://product.defencebank.com.au/cds-au/v1,123,Succeeded,No,Yes,No,No,No
+iSaver,Defence Bank Limited,https://product.defencebank.com.au/cds-au/v1,117,Succeeded,No,No,No,No,No
+Pension Saver,Defence Bank Limited,https://product.defencebank.com.au/cds-au/v1,116,Succeeded,Yes,No,No,No,No
+Max E Saver,Defence Bank Limited,https://product.defencebank.com.au/cds-au/v1,110,Succeeded,No,No,No,No,No
+Salute Account,Defence Bank Limited,https://product.defencebank.com.au/cds-au/v1,119,Succeeded,No,No,No,No,No
+Kids Club Savings,Defence Bank Limited,https://product.defencebank.com.au/cds-au/v1,111,Succeeded,No,No,No,No,No
+Cadet Saver,Defence Bank Limited,https://product.defencebank.com.au/cds-au/v1,122,Succeeded,No,Yes,No,No,No
+Max Saver,Dnister Ukrainian Credit Co-operative Limited,https://public.cdr-api.dnister.com.au/cds-au/v1,31,Succeeded,No,No,No,No,No
+iSaver,Dnister Ukrainian Credit Co-operative Limited,https://public.cdr-api.dnister.com.au/cds-au/v1,17,Succeeded,No,No,No,No,No
+Bonus Saver,Dnister Ukrainian Credit Co-operative Limited,https://public.cdr-api.dnister.com.au/cds-au/v1,18,Succeeded,No,No,No,No,No
+Pensioner Savings,Dnister Ukrainian Credit Co-operative Limited,https://public.cdr-api.dnister.com.au/cds-au/v1,30,Succeeded,Yes,No,No,No,No
+My Community Saver,Dnister Ukrainian Credit Co-operative Limited,https://public.cdr-api.dnister.com.au/cds-au/v1,15,Succeeded,No,No,No,No,No
+Easy Savings account,Easy Street Financial Services,https://ebranch.easystreet.com.au/es-openbanking/cds-au/v1,S17-ES-ES,Succeeded,No,No,No,No,No
+Bonus Saver account,Easy Street Financial Services,https://ebranch.easystreet.com.au/es-openbanking/cds-au/v1,S39-ES-BS,Succeeded,No,No,No,No,No
+S43 BATHURST BONUS SAVER ACCOUNT,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S43_Bathurst_Bonus_Saver_Account,Succeeded,No,No,No,No,No
+S42 BLACKHEATH BONUS SAVER ACCOUNT,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S42_Blackheath_Bonus_Saver_Account,Succeeded,No,No,No,No,No
+S41 MUDGEE BONUS SAVER ACCOUNT,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S41_Mudgee_Bonus_Saver_Account,Succeeded,No,No,No,No,No
+LITHGOW BONUS SAVER,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S40_Lithgow_Bonus_Saver_Account,Succeeded,No,No,No,No,No
+S17 TEEN SAVINGS ACCOUNT,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S17_Teen_Savings_Account,Succeeded,Yes,No,No,No,No
+S11 SUPER SAVER ACCOUNT,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S11_Super_Saver_Account,Succeeded,Yes,No,No,No,No
+S8 Family e-savings Account,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S8_Family_e-Savings_Account,Succeeded,No,No,No,No,No
+S6 CASH MANAGEMENT ACCOUNT,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S6_Cash_Management_Account,Succeeded,No,No,No,No,No
+S5 OVER 55's ACCOUNT,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S5_Over_55's_Account,Succeeded,Yes,No,No,No,No
+S4 COMMUNITY CARE ACCOUNT,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S4_Community_Care_Account,Succeeded,No,No,No,No,No
+S3 CHRISTMAS CLUB ACCOUNT,Family First Credit Union Limited,https://public.cdr.familyfirst.com.au/cds-au/v1,S3_Christmas_Club_Account,Succeeded,No,No,No,No,Yes
+S5 High Interest,Fire Service Credit Union Limited,https://public.cdr-api.fscu.com.au/cds-au/v1,3,Succeeded,No,No,No,No,No
+S12 Junior Firefighter Account,Fire Service Credit Union Limited,https://public.cdr-api.fscu.com.au/cds-au/v1,8,Succeeded,No,Yes,No,No,No
+S7 Christmas Savings Account,Fire Service Credit Union Limited,https://public.cdr-api.fscu.com.au/cds-au/v1,5,Succeeded,No,No,No,No,Yes
+S8 Savings Account,Fire Service Credit Union Limited,https://public.cdr-api.fscu.com.au/cds-au/v1,6,Succeeded,No,No,No,No,No
+S20 Retiree Access,Fire Service Credit Union Limited,https://public.cdr-api.fscu.com.au/cds-au/v1,9,Succeeded,Yes,No,No,No,No
+Mighty Saver account,Firefighters Mutual Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,3ee63c64-8000-4297-862a-9bd0b002cf27,Succeeded,No,No,No,No,No
+Target Saver account,Firefighters Mutual Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,e89865eb-bd4d-4a0e-b2d0-98c604992e70,Succeeded,No,No,No,No,No
+Pension Advantage account,Firefighters Mutual Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,2b387f74-8a4e-4b01-b1d1-4f9285efa16c,Succeeded,Yes,No,No,No,No
+Edvest Cash Management account,Firefighters Mutual Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,cf6eba94-7f0a-4302-9d15-79400f066fa7,Succeeded,No,No,No,No,No
+Cash Management account,Firefighters Mutual Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,4da04ce7-491c-4425-976d-326d52c8da0b,Succeeded,No,No,Yes,No,No
+Reward Saver account,Firefighters Mutual Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,077f69c0-54f0-460c-8b5e-eaab6e2ffbae,Succeeded,No,No,No,No,No
+Online Savings account,Firefighters Mutual Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,58d0b598-3de3-4997-bdb3-dee5f6a5ca32,Succeeded,No,No,No,No,No
+Christmas Club,First Choice Credit Union Ltd,https://public.cdr-api.firstchoicecu.com.au/cds-au/v1,3,Succeeded,No,No,No,No,Yes
+Cash Management,First Choice Credit Union Ltd,https://public.cdr-api.firstchoicecu.com.au/cds-au/v1,4,Succeeded,No,No,Yes,No,No
+Lifestyle Plus - Single,First Choice Credit Union Ltd,https://public.cdr-api.firstchoicecu.com.au/cds-au/v1,5,Succeeded,Yes,No,No,No,No
+Lifestyle Plus - Joint,First Choice Credit Union Ltd,https://public.cdr-api.firstchoicecu.com.au/cds-au/v1,6,Succeeded,Yes,No,No,No,No
+Online Savings,First Choice Credit Union Ltd,https://public.cdr-api.firstchoicecu.com.au/cds-au/v1,8,Succeeded,No,No,No,No,No
+Junior Saver Account,First Choice Credit Union Ltd,https://public.cdr-api.firstchoicecu.com.au/cds-au/v1,9,Succeeded,No,Yes,No,No,No
+Bills Account,First Option Bank Ltd,https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1,BILLS_ACCOUNT,Succeeded,No,No,No,No,No
+SAVINGS + BONUS,First Option Bank Ltd,https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1,SAVINGSPLUSBONUS,Succeeded,No,No,No,No,No
+KIDS BONUS SAVER,First Option Bank Ltd,https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1,KIDS_BONUS_SAVER,Succeeded,No,Yes,No,No,No
+Bonus Saver,First Option Bank Ltd,https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1,BONUS_SAVER,Succeeded,No,No,No,No,No
+CASH MANAGEMENT,First Option Bank Ltd,https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1,CASH_MANAGEMENT,Succeeded,No,No,Yes,No,No
+CHRISTMAS SAVER,First Option Bank Ltd,https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1,CHRISTMAS_SAVER,Succeeded,No,No,No,No,Yes
+RETIREMENT ACCESS,First Option Bank Ltd,https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1,RETIREMENT_ACCESS,Succeeded,Yes,No,No,No,No
+Special Purpose,First Option Bank Ltd,https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1,SPECIAL_PURPOSE,Succeeded,No,No,No,No,No
+Pensioner Plus Account,G&C Mutual Bank Limited,https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1,S12_PENSIONER_PLUS_ACCOUNT,Succeeded,Yes,No,No,No,No
+Self-Managed Superfund Account,G&C Mutual Bank Limited,https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1,S87_SMSF_ACCOUNT,Succeeded,No,No,No,Yes,No
+iNet Saver Account,G&C Mutual Bank Limited,https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1,S11_INET_SAVER_ACCOUNT,Succeeded,No,No,No,No,No
+Cash Management Account,G&C Mutual Bank Limited,https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1,S10_CASH_MANAGEMENT_ACCOUNT,Succeeded,No,No,Yes,No,No
+Christmas Saver Account,G&C Mutual Bank Limited,https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1,S4_CHRISTMAS_SAVER_ACCOUNT,Succeeded,No,No,No,No,Yes
+Reward Me Saver,G&C Mutual Bank Limited,https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1,S32_REWARD_ME_SAVER,Succeeded,No,No,No,No,No
+Bonus Saver Account,G&C Mutual Bank Limited,https://ibank.gcmutualbank.com.au/openbanking/cds-au/v1,S13_BONUS_SAVER_ACCOUNT,Succeeded,No,No,No,No,No
+eMax Saver Account,Gateway Bank Ltd,https://public.cdr-api.gatewaybank.com.au/cds-au/v1,2,Succeeded,No,No,No,No,No
+Dollaroo Junior Savers,Gateway Bank Ltd,https://public.cdr-api.gatewaybank.com.au/cds-au/v1,5,Succeeded,No,Yes,No,No,No
+Savings Account,Gateway Bank Ltd,https://public.cdr-api.gatewaybank.com.au/cds-au/v1,1,Succeeded,No,No,No,No,No
+Christmas Club,Gateway Bank Ltd,https://public.cdr-api.gatewaybank.com.au/cds-au/v1,4,Succeeded,No,No,No,No,Yes
+Christmas Club Account,Geelong Bank (Ford Co-operative Credit Society Limited),https://online.geelongbank.com.au/OpenBanking/cds-au/v1,S2,Succeeded,No,No,No,No,Yes
+Young Achiever Savings,Geelong Bank (Ford Co-operative Credit Society Limited),https://online.geelongbank.com.au/OpenBanking/cds-au/v1,S50,Succeeded,No,Yes,No,No,No
+Achieve Saver,Geelong Bank (Ford Co-operative Credit Society Limited),https://online.geelongbank.com.au/OpenBanking/cds-au/v1,S55,Succeeded,No,No,No,No,No
+Online Saver Account,Geelong Bank (Ford Co-operative Credit Society Limited),https://online.geelongbank.com.au/OpenBanking/cds-au/v1,S70,Succeeded,No,No,No,No,No
+Superfund Maximiser,Geelong Bank (Ford Co-operative Credit Society Limited),https://online.geelongbank.com.au/OpenBanking/cds-au/v1,S75,Succeeded,No,No,No,Yes,No
+Achieve Saver,Geelong Bank (Ford Co-operative Credit Society Limited),https://online.geelongbank.com.au/OpenBanking/cds-au/v1,S55,Succeeded,No,No,No,No,No
+Senior Savers,Geelong Bank (Ford Co-operative Credit Society Limited),https://online.geelongbank.com.au/OpenBanking/cds-au/v1,S65,Succeeded,No,No,No,No,No
+Cash Management Account,Goldfields Money,https://prd.bnk.com.au/cds-au/v1,1003,Succeeded,No,No,No,No,No
+Retire Style,Goldfields Money,https://prd.bnk.com.au/cds-au/v1,1005,Succeeded,Yes,No,No,No,No
+Advantage Saver,Goulburn Murray Credit Union Co-operative Limited,https://gmcu.cds.cuscal.com.au/cds-au/v1,Advantage_Saver,Succeeded,No,No,No,No,No
+Cash Manager,Goulburn Murray Credit Union Co-operative Limited,https://gmcu.cds.cuscal.com.au/cds-au/v1,Cash_Manger,Succeeded,No,No,No,No,No
+Christmas Saver,Goulburn Murray Credit Union Co-operative Limited,https://gmcu.cds.cuscal.com.au/cds-au/v1,Christmas_Saver,Succeeded,No,No,No,No,Yes
+My Freedom,Goulburn Murray Credit Union Co-operative Limited,https://gmcu.cds.cuscal.com.au/cds-au/v1,My_Freedom,Succeeded,No,No,No,No,No
+Online Saver,Goulburn Murray Credit Union Co-operative Limited,https://gmcu.cds.cuscal.com.au/cds-au/v1,Online_Saver,Succeeded,No,No,No,No,No
+Youth eSaver,Great Southern Bank (previously Credit Union Australia),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-2000,Succeeded,No,Yes,No,No,No
+eSaver Flexi,Great Southern Bank (previously Credit Union Australia),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-2300,Succeeded,No,No,No,No,No
+Home Saver,Great Southern Bank (previously Credit Union Australia),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-3100,Succeeded,No,No,No,No,No
+Goal Saver,Great Southern Bank (previously Credit Union Australia),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-3200,Succeeded,No,Yes,No,No,No
+Advantage Saver,Great Southern Bank (previously Credit Union Australia),https://api.open-banking.greatsouthernbank.com.au/cds-au/v1,2000-3300,Succeeded,No,No,No,No,No
+Bonus Saver,Greater Bank,https://public.cdr-api.greater.com.au/cds-au/v1,3020,Succeeded,No,No,No,No,No
+Retirement Plus,Greater Bank,https://public.cdr-api.greater.com.au/cds-au/v1,3060,Succeeded,Yes,No,No,No,No
+Lifesaver,Greater Bank,https://public.cdr-api.greater.com.au/cds-au/v1,3045,Succeeded,No,Yes,No,No,No
+Mighty Saver account,Health Professionals Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,ae92e68a-4104-4894-ba54-408c590a200b,Succeeded,No,No,No,No,No
+Target Saver account,Health Professionals Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,13809a33-4676-44e1-b293-d7c7e2fb1ae9,Succeeded,No,No,No,No,No
+Pension Advantage account,Health Professionals Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,3ea81fb6-ab26-4044-ab83-8de6fe73ab1d,Succeeded,Yes,No,No,No,No
+Edvest Cash Management account,Health Professionals Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,1fcd6386-92f5-411a-87b7-2b0d67aab1ba,Succeeded,No,No,No,No,No
+Cash Management account,Health Professionals Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,0d903c3c-558a-4211-a911-bbac0576ddb9,Succeeded,No,No,Yes,No,No
+Reward Saver account,Health Professionals Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,422e46fa-2816-49a1-baa2-b8259e7ecf63,Succeeded,No,No,No,No,No
+Online Savings account,Health Professionals Bank,https://ob.tmbl.com.au/tmbank/cds-au/v1,1e884de2-ee27-411e-a3d7-0df22c13a180,Succeeded,No,No,No,No,No
+Target Bonus Account,Heritage Bank,https://product.api.heritage.com.au/cds-au/v1,683e6ac4-7cb6-4d1f-a5ae-bddf379a39a5,Succeeded,No,No,No,No,No
+Online Saver Account,Heritage Bank,https://product.api.heritage.com.au/cds-au/v1,02901be8-7e53-49c8-ae99-097c55c11074,Succeeded,No,No,No,No,No
+Pension Plus Transaction account,Heritage Bank,https://product.api.heritage.com.au/cds-au/v1,cab87359-9c0f-493f-9e42-f9ba2a6e4b8a,Succeeded,Yes,No,No,No,No
+Club Cheque Account,Heritage Bank,https://product.api.heritage.com.au/cds-au/v1,c0d026e7-d108-4125-8ad0-f82cf3ec6ef9,Succeeded,No,No,No,No,No
+ADVANTAGE 55,Horizon Bank (previously Horizon Credit Union),https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1,S55_S550001,Succeeded,Yes,No,No,No,No
+SUPER SAVERS,Horizon Bank (previously Horizon Credit Union),https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1,S15_S150001,Succeeded,No,No,No,No,No
+TEEN ACCOUNT,Horizon Bank (previously Horizon Credit Union),https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1,S18_S180001,Succeeded,No,Yes,No,No,No
+CASH MANAGEMENT,Horizon Bank (previously Horizon Credit Union),https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1,S6_S60001,Succeeded,No,No,Yes,No,No
+REWARD SAVER,Horizon Bank (previously Horizon Credit Union),https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1,S7_S7001,Succeeded,No,No,No,No,No
+HORIZON DIRECT,Horizon Bank (previously Horizon Credit Union),https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1,S10_S100001,Succeeded,No,No,No,No,No
+CHRISTMAS CLUB,Horizon Bank (previously Horizon Credit Union),https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1,S8_S80001,Succeeded,No,No,No,No,Yes
+SMSF SAVER,Horizon Bank (previously Horizon Credit Union),https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1,S77_S770001,Succeeded,No,No,No,Yes,No
+YOUTH REWARD SAVER,Horizon Bank (previously Horizon Credit Union),https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1,S17_S170001,Succeeded,Yes,No,No,No,No
+HSBC Bonus Savings Account - AUD,HSBC Bank Australia Limited,https://public.ob.hsbc.com.au/cds-au/v1,ACSAUD,Succeeded,No,No,No,No,No
+HSBC Everyday Savings Account,HSBC Bank Australia Limited,https://public.ob.hsbc.com.au/cds-au/v1,SSP,Succeeded,No,No,No,No,No
+HSBC Premier Children's Savings Account,HSBC Bank Australia Limited,https://public.ob.hsbc.com.au/cds-au/v1,CSV,Succeeded,No,Yes,No,No,No
+Clancy Koala,Hume Bank Limited,https://ibankob.humebank.com.au/openbanking/cds-au/v1,S2V1,Succeeded,No,Yes,No,No,No
+Retirement Account,Hume Bank Limited,https://ibankob.humebank.com.au/openbanking/cds-au/v1,S12V1,Succeeded,Yes,No,No,No,No
+Reward Saver,Hume Bank Limited,https://ibankob.humebank.com.au/openbanking/cds-au/v1,S15V1,Succeeded,No,No,No,No,No
+iSave,Hume Bank Limited,https://ibankob.humebank.com.au/openbanking/cds-au/v1,S19V1,Succeeded,No,No,No,No,No
+WILDLIFE SAVER,Illawarra Credit Union Limited,https://onlineteller.cu.com.au/OpenBanking/cds-au/v1,WILDLIFE_SAVER,Succeeded,Yes,No,No,No,No
+SAVER,Illawarra Credit Union Limited,https://onlineteller.cu.com.au/OpenBanking/cds-au/v1,SAVER,Succeeded,No,No,No,No,No
+BONUS SAVER,Illawarra Credit Union Limited,https://onlineteller.cu.com.au/OpenBanking/cds-au/v1,BONUS_SAVER,Succeeded,No,No,No,No,No
+CHRISTMAS PROMISE,Illawarra Credit Union Limited,https://onlineteller.cu.com.au/OpenBanking/cds-au/v1,CHRISTMAS,Succeeded,No,No,No,No,Yes
+Cash Management Account,IMB Ltd (trading as IMB Bank),https://openbank.openbanking.imb.com.au/cds-au/v1,TSA-23-1,Succeeded,No,No,Yes,No,No
+Christmas Club Account,IMB Ltd (trading as IMB Bank),https://openbank.openbanking.imb.com.au/cds-au/v1,TSA-6-1,Succeeded,No,No,No,No,Yes
+DIY Super Account,IMB Ltd (trading as IMB Bank),https://openbank.openbanking.imb.com.au/cds-au/v1,TSA-35-1,Succeeded,No,No,No,Yes,No
+Reward Saver Account,IMB Ltd (trading as IMB Bank),https://openbank.openbanking.imb.com.au/cds-au/v1,TSA-22-1,Succeeded,No,No,No,No,No
+Reward Saver Kick Start,IMB Ltd (trading as IMB Bank),https://openbank.openbanking.imb.com.au/cds-au/v1,TSA-22-2,Succeeded,No,Yes,No,No,No
+Wisdom Saver Account,IMB Ltd (trading as IMB Bank),https://openbank.openbanking.imb.com.au/cds-au/v1,TSA-8-1,Succeeded,Yes,No,No,No,No
+Zoo Account,IMB Ltd (trading as IMB Bank),https://openbank.openbanking.imb.com.au/cds-au/v1,TSA-29-1,Succeeded,No,Yes,No,No,No
+Savings Accelerator,ING Bank (Australia) Limited (trading as ING),https://id.ob.ing.com.au/cds-au/v1/,98290a00-39c5-4157-82ce-e725e305237b,Succeeded,No,No,No,No,No
+Savings Maximiser,ING Bank (Australia) Limited (trading as ING),https://id.ob.ing.com.au/cds-au/v1/,b7bb9da4-3913-484c-8d2d-3fc99b9b4a72,Succeeded,No,No,No,No,No
+Esaver Account,Laboratories Credit Union Limited,https://internetbanking.lcu.com.au/openbanking/cds-au/v1,S50_ESAVER_ACCOUNT,Succeeded,No,No,No,No,No
+Savvy Saver,Laboratories Credit Union Limited,https://internetbanking.lcu.com.au/openbanking/cds-au/v1,S34_SAVVY_SAVER_ACCOUNT,Succeeded,No,No,No,No,No
+Young and Free Student Account,Laboratories Credit Union Limited,https://internetbanking.lcu.com.au/openbanking/cds-au/v1,S33_YOUNG_AND_FREE_ACCOUNT,Succeeded,No,Yes,No,No,No
+eSaver,MacArthur Credit Union Ltd (trading as The MAC),https://onlinebanking.themaccu.com.au/OpenBanking/cds-au/v1,S50_ESAVER,Succeeded,No,No,No,No,No
+MINI MAC BONUS SAVER,MacArthur Credit Union Ltd (trading as The MAC),https://onlinebanking.themaccu.com.au/OpenBanking/cds-au/v1,S16_MINIMAC,Succeeded,No,Yes,No,No,No
+FREEDOM YEARS,MacArthur Credit Union Ltd (trading as The MAC),https://onlinebanking.themaccu.com.au/OpenBanking/cds-au/v1,S15_FREEDOMYEARS,Succeeded,Yes,No,No,No,No
+CHRISTMAS SAVER,MacArthur Credit Union Ltd (trading as The MAC),https://onlinebanking.themaccu.com.au/OpenBanking/cds-au/v1,S44_CHRISTMASSAVER,Succeeded,No,No,No,No,Yes
+Macquarie Savings Account,Macquarie Bank Limited,https://api.macquariebank.io/cds-au/v1,SV001MBLSAV001,Succeeded,No,No,No,No,No
+Macquarie Cash Management Account,Macquarie Bank Limited,https://api.macquariebank.io/cds-au/v1,CM001MBLCMA001,Succeeded,No,No,Yes,No,No
+Macquarie Cash Management Accelerator Account,Macquarie Bank Limited,https://api.macquariebank.io/cds-au/v1,CM001MBLXLR001,Succeeded,No,No,Yes,No,No
+CHRISTMAS CLUB SAVINGS,Macquarie Credit Union Limited,https://banking.macquariecu.com.au/OpenBanking/cds-au/v1,CHRISTMAS_CLUB_SAVINGS,Succeeded,No,No,No,No,Yes
+GOLD RETIREMENT,Macquarie Credit Union Limited,https://banking.macquariecu.com.au/OpenBanking/cds-au/v1,GOLD_RETIREMENT,Succeeded,Yes,No,No,No,No
+INVESTMENT ACCOUNT,Macquarie Credit Union Limited,https://banking.macquariecu.com.au/OpenBanking/cds-au/v1,INVESTMENT_ACCOUNT,Succeeded,No,No,No,No,No
+ONLINE SAVINGS ACCOUNT,Macquarie Credit Union Limited,https://banking.macquariecu.com.au/OpenBanking/cds-au/v1,ONLINE_SAVINGS_ACCOUNT,Succeeded,No,No,No,No,No
+Internet Saver,Maitland Mutual Limited (trading as The Mutual Bank),,Internet_Saver,Succeeded,No,No,No,No,No
+Bonus Saver,Maitland Mutual Limited (trading as The Mutual Bank),,Bonus_Saver,Succeeded,No,No,No,No,No
+Retirement Account,Maitland Mutual Limited (trading as The Mutual Bank),,Retirement,Succeeded,Yes,No,No,No,No
+Christmas Club,Maitland Mutual Limited (trading as The Mutual Bank),,Christmas_Club,Succeeded,No,No,No,No,Yes
+Cash Management,Maitland Mutual Limited (trading as The Mutual Bank),,Cash_Management,Succeeded,No,No,Yes,No,No
+Online Savings Account,ME Bank,https://public.openbank.mebank.com.au/cds-au/v1,OSA.RETAIL,Succeeded,No,No,No,No,No
+eSave Account,Members Banking Group Limited (trading as RACQ Bank),https://cdrbank.racq.com.au/cds-au/v1,504,Succeeded,No,No,No,No,No
+Bonus Saver Account,Members Banking Group Limited (trading as RACQ Bank),https://cdrbank.racq.com.au/cds-au/v1,404,Succeeded,No,No,No,No,No
+Bonus Saver,MOVE Bank (previously) Railways Credit Union Limited ,https://openbanking.movebank.com.au/OpenBanking/cds-au/v1,BonusSaver,Succeeded,No,No,No,No,No
+Christmas Saver,MOVE Bank (previously) Railways Credit Union Limited ,https://openbanking.movebank.com.au/OpenBanking/cds-au/v1,CHRISTMAS_SAVER,Succeeded,No,No,No,No,Yes
+Express Saver,MOVE Bank (previously) Railways Credit Union Limited ,https://openbanking.movebank.com.au/OpenBanking/cds-au/v1,Express_Saver,Succeeded,No,No,No,No,No
+Growth Saver,MOVE Bank (previously) Railways Credit Union Limited ,https://openbanking.movebank.com.au/OpenBanking/cds-au/v1,GrowthSaver,Succeeded,No,No,No,No,No
+Online Saver,MOVE Bank (previously) Railways Credit Union Limited ,https://openbanking.movebank.com.au/OpenBanking/cds-au/v1,ONLINE_SAVER,Succeeded,No,No,No,No,No
+Christmas Account,MyState Bank Limited,https://openbank.api.mystate.com.au/cds-au/v1,30d70080-16af-4a09-8759-e6888caebcdf,Succeeded,No,No,No,No,Yes
+Bonus Saver,MyState Bank Limited,https://openbank.api.mystate.com.au/cds-au/v1,f2c94853-abb7-4c8e-ae43-66427d186380,Succeeded,No,No,No,No,No
+Special eSaver,MyState Bank Limited,https://openbank.api.mystate.com.au/cds-au/v1,e04db84f-a246-48af-ae4a-1782942db22d,Succeeded,No,No,No,No,No
+NAB Retirement Account,National Australia Bank Limited,https://openbank.api.nab.com.au/cds-au/v1,11662a88-dfad-489a-b1c0-d837ff49ea27,Succeeded,Yes,No,No,No,No
+NAB Reward Saver,National Australia Bank Limited,https://openbank.api.nab.com.au/cds-au/v1,2d188a0a-4e27-4c0f-9a6c-2eccdf534f91,Succeeded,No,No,No,No,No
+NAB iSaver,National Australia Bank Limited,https://openbank.api.nab.com.au/cds-au/v1,a97fad3e-9d44-4b4e-8279-3722edefae52,Succeeded,No,No,No,No,No
+Online Savings Account (including Intro),Newcastle Permanent,https://openbank.newcastlepermanent.com.au/cds-au/v1,AC_onlinesavings,Succeeded,No,No,No,No,No
+Rapid Saver Statement Account - Premium Plus Package,Newcastle Permanent,https://openbank.newcastlepermanent.com.au/cds-au/v1,AC_rapidsaverstatementprem,Succeeded,No,No,No,No,No
+Smart Saver Account,Newcastle Permanent,https://openbank.newcastlepermanent.com.au/cds-au/v1,AC_smartsaver,Succeeded,No,No,No,No,No
+Smart Saver Account (under 25),Newcastle Permanent,https://openbank.newcastlepermanent.com.au/cds-au/v1,AC_smartsaveryouth,Succeeded,No,Yes,No,No,No
+Special Monthly Interest,Newcastle Permanent,https://openbank.newcastlepermanent.com.au/cds-au/v1,AC_specialmonthlyinterest,Succeeded,No,No,No,No,No
+Bonus Savings account,Northern Inland Credit Union Limited,http://nicu.prd.cdr.systems/cds-au/v1,NICUS12,Succeeded,No,No,No,No,No
+Cash Management account,Northern Inland Credit Union Limited,http://nicu.prd.cdr.systems/cds-au/v1,NICUS6,Succeeded,No,No,Yes,No,No
+Christmas Club,Northern Inland Credit Union Limited,http://nicu.prd.cdr.systems/cds-au/v1,NICUS4,Succeeded,No,No,No,No,Yes
+Future Plus,Northern Inland Credit Union Limited,http://nicu.prd.cdr.systems/cds-au/v1,NICUS80,Succeeded,No,Yes,No,No,No
+Internet Saver account,Northern Inland Credit Union Limited,http://nicu.prd.cdr.systems/cds-au/v1,NICUS99,Succeeded,No,No,No,No,No
+Pension Plus,Northern Inland Credit Union Limited,http://nicu.prd.cdr.systems/cds-au/v1,NICUS10,Succeeded,Yes,No,No,No,No
+Portfolio Investment,Northern Inland Credit Union Limited,http://nicu.prd.cdr.systems/cds-au/v1,NICUS11,Succeeded,No,No,No,No,No
+Smart Start Bonus Saver,Northern Inland Credit Union Limited,http://nicu.prd.cdr.systems/cds-au/v1,NICUS15,Succeeded,No,No,No,No,No
+Super Saver account,Northern Inland Credit Union Limited,http://nicu.prd.cdr.systems/cds-au/v1,NICUS7,Succeeded,No,Yes,No,No,No
+Teenage account,Northern Inland Credit Union Limited,http://nicu.prd.cdr.systems/cds-au/v1,NICUS8,Succeeded,No,Yes,No,No,No
+BONUS SAVER,Orange Credit Union Limited,https://online.orangecu.com.au/openbanking/cds-au/v1,BONUS_SAVER,Succeeded,No,No,No,No,No
+CHRISTMAS CLUB,Orange Credit Union Limited,https://online.orangecu.com.au/openbanking/cds-au/v1,CHRISTMAS_CLUB,Succeeded,No,No,No,No,Yes
+GOLDEN ACCOUNT,Orange Credit Union Limited,https://online.orangecu.com.au/openbanking/cds-au/v1,GOLDEN_ACCOUNT,Succeeded,Yes,No,No,No,No
+ONLINE SAVER,Orange Credit Union Limited,https://online.orangecu.com.au/openbanking/cds-au/v1,ONLINE_SAVER,Succeeded,No,No,No,No,No
+SUPER SAVER,Orange Credit Union Limited,https://online.orangecu.com.au/openbanking/cds-au/v1,BONUS_REWARDS,Succeeded,No,Yes,No,No,No
+Bonus Saver,People’s Choice Credit Union,https://ob-public.peopleschoice.com.au/cds-au/v1,20,Succeeded,No,No,No,No,No
+Dream Fund,People’s Choice Credit Union,https://ob-public.peopleschoice.com.au/cds-au/v1,570,Succeeded,No,No,No,No,No
+Young Saver,People’s Choice Credit Union,https://ob-public.peopleschoice.com.au/cds-au/v1,19,Succeeded,No,Yes,No,No,No
+& Retirement Account,P&N Bank (aka Police & Nurses Limited),https://public.cdr-api.pnbank.com.au/cds-au/v1/,39,Succeeded,Yes,No,No,No,No
+CashSaver Account,P&N Bank (aka Police & Nurses Limited),https://public.cdr-api.pnbank.com.au/cds-au/v1/,95,Succeeded,No,No,No,No,No
+Hi Saver Account,P&N Bank (aka Police & Nurses Limited),https://public.cdr-api.pnbank.com.au/cds-au/v1/,37,Succeeded,No,No,No,No,No
+SwiftSaver Account,P&N Bank (aka Police & Nurses Limited),https://public.cdr-api.pnbank.com.au/cds-au/v1/,34,Succeeded,No,No,No,No,No
+Way Cool Saver,P&N Bank (aka Police & Nurses Limited),https://public.cdr-api.pnbank.com.au/cds-au/v1/,35,Succeeded,No,Yes,No,No,No
+Savings Plus Account,Police Bank Ltd,https://product.api.policebank.com.au/cds-au/v1,S10,Succeeded,No,No,No,No,No
+Bonus Saver Account,Police Bank Ltd,https://product.api.policebank.com.au/cds-au/v1,S23,Succeeded,No,No,No,No,No
+Retirement Plus Account,Police Bank Ltd,https://product.api.policebank.com.au/cds-au/v1,S17,Succeeded,Yes,No,No,No,No
+Dynamo/Flex Account,Police Bank Ltd,https://product.api.policebank.com.au/cds-au/v1,S24,Succeeded,No,Yes,No,No,No
+iSavings ACCOUNT,Police Credit Union Limited,https://api.policecu.com.au/openbanking/cds-au/v1,iSavings_Account,Succeeded,No,No,No,No,No
+Beans Savings Account,Police Credit Union Limited,https://api.policecu.com.au/openbanking/cds-au/v1,Beans_Savings_Account,Succeeded,No,Yes,No,No,No
+Focus Saver Account,Police Credit Union Limited,https://api.policecu.com.au/openbanking/cds-au/v1,Focus_Saver_Account,Succeeded,No,No,No,No,No
+Master Club Account,Police Credit Union Limited,https://api.policecu.com.au/openbanking/cds-au/v1,Master_Club_Account,Succeeded,Yes,No,No,No,No
+Super MyWay Account,Police Credit Union Limited,https://api.policecu.com.au/openbanking/cds-au/v1,Super_MyWay_Account,Succeeded,No,No,No,Yes,No
+Little Copper Club,Police Financial Services Limited (trading as BankVic),https://ib.bankvic.com.au/openbanking/cds-au/v1,S3_Savings_Little_Copper_Club,Succeeded,No,Yes,No,No,No
+Pension Plus,Police Financial Services Limited (trading as BankVic),https://ib.bankvic.com.au/openbanking/cds-au/v1,S10_Savings_Pension,Succeeded,Yes,No,No,No,No
+Bonus Saver,Police Financial Services Limited (trading as BankVic),https://ib.bankvic.com.au/openbanking/cds-au/v1,S8_Savings_Bonus,Succeeded,No,No,No,No,No
+EasyInvest Saver,Police Financial Services Limited (trading as BankVic),https://ib.bankvic.com.au/openbanking/cds-au/v1,S7_Savings_Online,Succeeded,No,No,No,No,No
+SMSF Saver,Police Financial Services Limited (trading as BankVic),https://ib.bankvic.com.au/openbanking/cds-au/v1,S40_Savings_SMSF,Succeeded,No,No,No,Yes,No
+Bonus Saver,QBANK (previously QPCU Limited),https://banking.qbank.com.au/openbanking/cds-au/v1,S70_Bonus,Succeeded,No,No,No,No,No
+Christmas Club,QBANK (previously QPCU Limited),https://banking.qbank.com.au/openbanking/cds-au/v1,S8_Xmas,Succeeded,No,No,No,No,Yes
+Teen Netlink Direct Savings,QBANK (previously QPCU Limited),https://banking.qbank.com.au/openbanking/cds-au/v1,S18_Teen_Netlink,Succeeded,No,Yes,No,No,No
+Junior Saver,QBANK (previously QPCU Limited),https://banking.qbank.com.au/openbanking/cds-au/v1,S7_Junior,Succeeded,No,Yes,No,No,No
+Netlink,QBANK (previously QPCU Limited),https://banking.qbank.com.au/openbanking/cds-au/v1,S20_Netlink,Succeeded,No,No,No,No,No
+Pension Plus Account,QBANK (previously QPCU Limited),https://banking.qbank.com.au/openbanking/cds-au/v1,S12_Pension,Succeeded,Yes,No,No,No,No
+Qantas Points Saver,Qudos Bank (previously Qudos Mutual Ltd),https://public.cdr-api.qudosbank.com.au/cds-au/v1,2,Succeeded,No,No,No,No,No
+Cash Management Account,Qudos Bank (previously Qudos Mutual Ltd),https://public.cdr-api.qudosbank.com.au/cds-au/v1,5,Succeeded,No,No,Yes,No,No
+Bonus Saver,Qudos Bank (previously Qudos Mutual Ltd),https://public.cdr-api.qudosbank.com.au/cds-au/v1,3,Succeeded,No,No,No,No,No
+Qsaver,Qudos Bank (previously Qudos Mutual Ltd),https://public.cdr-api.qudosbank.com.au/cds-au/v1,4,Succeeded,No,No,No,No,No
+DIY Super,Qudos Bank (previously Qudos Mutual Ltd),https://public.cdr-api.qudosbank.com.au/cds-au/v1,6,Succeeded,No,No,No,Yes,No
+Savings Account Zero,Qudos Bank (previously Qudos Mutual Ltd),https://public.cdr-api.qudosbank.com.au/cds-au/v1,1,Succeeded,No,No,No,No,No
+Pension Plus,Queensland Country Bank Limited,https://public.cdr-api.queenslandcountry.bank/cds-au/v1,4,Succeeded,Yes,No,No,No,No
+Online Saver,Queensland Country Bank Limited,https://public.cdr-api.queenslandcountry.bank/cds-au/v1,6,Succeeded,No,No,No,No,No
+Bonus Saver,Queensland Country Bank Limited,https://public.cdr-api.queenslandcountry.bank/cds-au/v1,7,Succeeded,No,No,No,No,No
+Christmas Club,Queensland Country Bank Limited,https://public.cdr-api.queenslandcountry.bank/cds-au/v1,8,Succeeded,No,No,No,No,Yes
+Student Money Saver,Queensland Country Bank Limited,https://public.cdr-api.queenslandcountry.bank/cds-au/v1,9,Succeeded,No,Yes,No,No,No
+Future Start Savings,Queensland Country Bank Limited,https://public.cdr-api.queenslandcountry.bank/cds-au/v1,10,Succeeded,No,Yes,No,No,No
+Star Saver,Queensland Country Bank Limited,https://public.cdr-api.queenslandcountry.bank/cds-au/v1,11,Succeeded,No,Yes,No,No,No
+Cash Management,Queensland Country Bank Limited,https://public.cdr-api.queenslandcountry.bank/cds-au/v1,3,Succeeded,No,No,Yes,No,No
+Advantage Plus Account,RACQ,https://cdrbank.racq.com.au/cds-au/v1,601,Succeeded,Yes,No,No,No,No
+eSave Account,RACQ,https://cdrbank.racq.com.au/cds-au/v1,504,Succeeded,No,No,No,No,No
+Bonus Saver Account,RACQ,https://cdrbank.racq.com.au/cds-au/v1,404,Succeeded,No,No,No,No,No
+Cash Management Account,Rabobank Australia Limited,,1959ca34-15f6-4937-996b-3f8434129d04,Succeeded,No,No,Yes,No,No
+PremiumSaver (SMSF),Rabobank Australia Limited,,23097124-f4ca-4036-81f3-3f11bd2e29ba,Succeeded,No,No,No,Yes,No
+Premium Cash Management Account,Rabobank Australia Limited,,24228715-9d47-4191-abd0-bd0faa106f14,Succeeded,No,No,Yes,No,No
+High Interest Savings Account (SMSF),Rabobank Australia Limited,,7d432ded-374d-4c05-98c4-66da8f64aa8c,Succeeded,No,No,No,Yes,No
+Call Deposit Account,Rabobank Australia Limited,,a023c7eb-54cc-4919-9683-9d478d34ee3e,Succeeded,No,No,No,No,No
+High Interest Savings Account,Rabobank Australia Limited,,c84e2ce6-f927-4783-aa0d-84073bc090f7,Succeeded,No,No,No,No,No
+PremiumSaver,Rabobank Australia Limited,,f5079e11-c89f-43bf-bd15-91df6602699d,Succeeded,No,No,No,No,No
+PurposeSaver,Rabobank Australia Limited,,87b11783-3b63-4f59-825e-7d0ecf58c763,Succeeded,No,No,No,No,No
+PurposeSaver (SMSF),Rabobank Australia Limited,,9ea0c26a-dcd4-42f9-9084-013676d8e6c3,Succeeded,No,No,No,Yes,No
+Internet Maximiser Account,Regional Australia Bank Ltd,https://public-data.cdr.regaustbank.io/cds-au/v1,2093f291-11bf-4890-9d21-463b567dc19e,Succeeded,No,No,No,No,No
+Savings Booster Account,Regional Australia Bank Ltd,https://public-data.cdr.regaustbank.io/cds-au/v1,26fbc357-1a90-433a-87ea-f968ec09da06,Succeeded,No,No,No,No,No
+Freedom Retirement Account,Regional Australia Bank Ltd,https://public-data.cdr.regaustbank.io/cds-au/v1,0a5b3d7e-dd00-4b7c-b557-91450356730a,Succeeded,Yes,No,No,No,No
+Christmas Club Account,Regional Australia Bank Ltd,https://public-data.cdr.regaustbank.io/cds-au/v1,03fbefc2-1fa2-466a-abe3-aa4ce400cb0f,Succeeded,No,No,No,No,Yes
+DIY Super Saver Account,Rural Bank,https://api.cdr.ruralbank.com.au/cds-au/v1,e10f3985-c2e6-4c1a-b6bf-907f912fa464,Succeeded,No,No,No,Yes,No
+Personal Saver Account,Rural Bank,https://api.cdr.ruralbank.com.au/cds-au/v1,d5bc54b3-91c6-46fc-b8c3-3c8d8987a715,Succeeded,No,No,No,No,No
+Everyday Retirement Account,Rural Bank,https://api.cdr.ruralbank.com.au/cds-au/v1,d7fb1439-6a5e-4e72-a826-b9635c4b45ce,Succeeded,Yes,No,No,No,No
+Christmas Club,South West Slopes Credit Union Ltd,https://online.swscu.com.au/OpenBanking/cds-au/v1,S5_Xmas,Succeeded,No,No,No,No,Yes
+Goal Account,South West Slopes Credit Union Ltd,https://online.swscu.com.au/OpenBanking/cds-au/v1,S7_7DN,Succeeded,No,No,No,No,No
+SMF Superannuation,South West Slopes Credit Union Ltd,https://online.swscu.com.au/OpenBanking/cds-au/v1,S9_SMF,Succeeded,No,No,No,Yes,No
+Online Saver,South West Slopes Credit Union Ltd,https://online.swscu.com.au/OpenBanking/cds-au/v1,S11_OS,Succeeded,No,No,No,No,No
+Teenager Account,South West Slopes Credit Union Ltd,https://online.swscu.com.au/OpenBanking/cds-au/v1,S6_Teen,Succeeded,No,No,No,No,No
+Junior Account,South West Slopes Credit Union Ltd,https://online.swscu.com.au/OpenBanking/cds-au/v1,S8_SSav,Succeeded,No,No,No,No,No
+STAR SAVER,Southern Cross Credit Union Ltd,,STAR_SAVER,Succeeded,No,No,No,No,No
+STAR SAVER - CASH MANAGEMENT ACCOUNT,Southern Cross Credit Union Ltd,,STAR_SAVER_CMA,Succeeded,No,No,Yes,No,No
+S11 LITTLE STAR SAVER,Southern Cross Credit Union Ltd,,LITTLE_STAR_SAVER,Succeeded,No,Yes,No,No,No
+CASH Connect Account,St George Bank,https://digital-api.stgeorge.com.au/cds-au/v1,ASGCashConnectAccount,Succeeded,No,No,No,No,No
+Incentive Saver,St George Bank,https://digital-api.stgeorge.com.au/cds-au/v1,STGSavIncentiveSaver,Succeeded,No,No,No,No,No
+Maxi Saver,St George Bank,https://digital-api.stgeorge.com.au/cds-au/v1,STGSavMaxiSaver,Succeeded,No,No,No,No,No
+Retirement Access Account,St George Bank,https://digital-api.stgeorge.com.au/cds-au/v1,STGTrRetirementAccess,Succeeded,Yes,No,No,No,No
+eCASH Account,St George Bank,https://digital-api.stgeorge.com.au/cds-au/v1,ASGeCashAccount,Succeeded,No,No,No,No,No
+iSave Online,Summerland Financial Services Limited (trading as Summerland Credit Union),https://public.cdr-api.summerland.com.au/cds-au/v1,3,Succeeded,No,No,No,No,No
+Gold Class,Summerland Financial Services Limited (trading as Summerland Credit Union),https://public.cdr-api.summerland.com.au/cds-au/v1,8,Succeeded,Yes,No,No,No,No
+Supersaver,Summerland Financial Services Limited (trading as Summerland Credit Union),https://public.cdr-api.summerland.com.au/cds-au/v1,12,Succeeded,No,Yes,No,No,No
+Money Sense,Summerland Financial Services Limited (trading as Summerland Credit Union),https://public.cdr-api.summerland.com.au/cds-au/v1,13,Succeeded,No,Yes,No,No,No
+Bonus Saver,Summerland Financial Services Limited (trading as Summerland Credit Union),https://public.cdr-api.summerland.com.au/cds-au/v1,2,Succeeded,No,No,No,No,No
+Carbon Insights Account,Suncorp-Metway Limited,https://id-ob.suncorpbank.com.au/cds-au/v1/,CIA,Succeeded,No,No,No,No,No
+Growth Saver Account,Suncorp-Metway Limited,https://id-ob.suncorpbank.com.au/cds-au/v1/,GS,Succeeded,No,No,No,No,No
+Kids Savings,Suncorp-Metway Limited,https://id-ob.suncorpbank.com.au/cds-au/v1/,KS,Succeeded,No,Yes,No,No,No
+Mighty Saver account,"Teachers Mutual Bank Limited (trading as Firefighters Mutual Bank, Health Professionals Bank, Hiver Bank, Teachers Mutual Bank and UniBank)",https://ob.tmbl.com.au/tmbank/cds-au/v1,501d1af4-4a3a-4b5f-a90f-c5a0933fb4a5,Succeeded,No,No,No,No,No
+Target Saver account,"Teachers Mutual Bank Limited (trading as Firefighters Mutual Bank, Health Professionals Bank, Hiver Bank, Teachers Mutual Bank and UniBank)",https://ob.tmbl.com.au/tmbank/cds-au/v1,009d4462-6cf2-4adf-82c5-1dab80549c64,Succeeded,No,No,No,No,No
+Pension Advantage account,"Teachers Mutual Bank Limited (trading as Firefighters Mutual Bank, Health Professionals Bank, Hiver Bank, Teachers Mutual Bank and UniBank)",https://ob.tmbl.com.au/tmbank/cds-au/v1,031f8f9a-4e33-469e-b650-a54873bd3d44,Succeeded,Yes,No,No,No,No
+New Teacher Online Savings account,"Teachers Mutual Bank Limited (trading as Firefighters Mutual Bank, Health Professionals Bank, Hiver Bank, Teachers Mutual Bank and UniBank)",https://ob.tmbl.com.au/tmbank/cds-au/v1,767fa230-c742-4cf1-8e28-5061dd0019b5,Succeeded,No,No,No,No,No
+Edvest Cash Management account,"Teachers Mutual Bank Limited (trading as Firefighters Mutual Bank, Health Professionals Bank, Hiver Bank, Teachers Mutual Bank and UniBank)",https://ob.tmbl.com.au/tmbank/cds-au/v1,a56e102d-bffe-45c5-a31e-f389cb47d985,Succeeded,No,No,No,No,No
+Cash Management account,"Teachers Mutual Bank Limited (trading as Firefighters Mutual Bank, Health Professionals Bank, Hiver Bank, Teachers Mutual Bank and UniBank)",https://ob.tmbl.com.au/tmbank/cds-au/v1,3c662d36-323a-47ae-9386-e5dcad66695d,Succeeded,No,No,Yes,No,No
+Reward Saver account,"Teachers Mutual Bank Limited (trading as Firefighters Mutual Bank, Health Professionals Bank, Hiver Bank, Teachers Mutual Bank and UniBank)",https://ob.tmbl.com.au/tmbank/cds-au/v1,95ebf0fc-5891-4eae-b5af-7515170d545b,Succeeded,No,No,No,No,No
+Online Savings account,"Teachers Mutual Bank Limited (trading as Firefighters Mutual Bank, Health Professionals Bank, Hiver Bank, Teachers Mutual Bank and UniBank)",https://ob.tmbl.com.au/tmbank/cds-au/v1,6c7babde-9ee2-4da2-8500-9089ceb5a454,Succeeded,No,No,No,No,No
+eCall Savings Account,The Broken Hill Community Credit Union Ltd,https://public.cdr-api.bhccu.com.au/cds-au/v1,20,Succeeded,No,No,No,No,No
+Santa Saver Account,The Broken Hill Community Credit Union Ltd,https://public.cdr-api.bhccu.com.au/cds-au/v1,21,Succeeded,No,No,No,No,Yes
+Busy Bee Account,The Broken Hill Community Credit Union Ltd,https://public.cdr-api.bhccu.com.au/cds-au/v1,45,Succeeded,No,Yes,No,No,No
+Super Youth Saver,The Broken Hill Community Credit Union Ltd,https://public.cdr-api.bhccu.com.au/cds-au/v1,46,Succeeded,No,Yes,No,No,No
+PENSION ACCESS ACCOUNT,The Capricornian Ltd,https://onlinebanking.capricornian.com.au/OpenBanking/cds-au/v1,S50_ACCESS,Succeeded,Yes,No,No,No,No
+YOUTH ACCESS ACCOUNT,The Capricornian Ltd,https://onlinebanking.capricornian.com.au/OpenBanking/cds-au/v1,S7_ACCESS,Succeeded,No,Yes,No,No,No
+ISaver,The Capricornian Ltd,https://onlinebanking.capricornian.com.au/OpenBanking/cds-au/v1,S5_SAVINGS,Succeeded,No,No,No,No,No
+EVERYDAY SAVER ACCOUNT,The Capricornian Ltd,https://onlinebanking.capricornian.com.au/OpenBanking/cds-au/v1,S29_SAVINGS,Succeeded,No,No,No,No,No
+S2 Budget Account,Traditional Credit Union Limited,,TCU002,Succeeded,No,No,No,No,No
+S9 Child account,Traditional Credit Union Limited,,TCU009,Succeeded,No,Yes,No,No,No
+S6 Student Account,Traditional Credit Union Limited,,TCU006,Succeeded,No,Yes,No,No,No
+S3 Christmas Club Account,Traditional Credit Union Limited,,TCU003,Succeeded,No,No,No,No,Yes
+PREMIUM SAVERS ACCOUNT,Transport Mutual Credit Union Limited,https://banking.transportmutual.com.au/OpenBanking/cds-au/v1,S8_PREMIUM_SAVERS_ACCOUNT,Succeeded,No,No,No,No,No
+CHRISTMAS CLUB ACCOUNT,Transport Mutual Credit Union Limited,https://banking.transportmutual.com.au/OpenBanking/cds-au/v1,CHRISTMAS_CLUB_ACCOUNT,Succeeded,No,No,No,No,Yes
+REDIFUND ACCOUNT,Transport Mutual Credit Union Limited,https://banking.transportmutual.com.au/OpenBanking/cds-au/v1,S7_REDIFUND_ACCOUNT,Succeeded,No,No,No,No,No
+MULTI-ACCESS ACCOUNT,Transport Mutual Credit Union Limited,https://banking.transportmutual.com.au/OpenBanking/cds-au/v1,MULTI-ACCESS_ACCOUNT,Succeeded,No,No,No,No,No
+Save account,Ubank (currently under 86400 feed),https://public.cdr-api.86400.com.au/cds-au/v1,1,Succeeded,No,No,No,No,No
+MoneyMAX - UNITY,"Unity Bank Limited (trading as Reliance Bank, Bankstown City Unity Bank and Unity Bank)",https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1,MoneyMAX_-_UNITY,Succeeded,No,No,No,No,No
+Access Savings Account - UNITY,"Unity Bank Limited (trading as Reliance Bank, Bankstown City Unity Bank and Unity Bank)",https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1,Access_Savings_-_UNITY,Succeeded,No,No,No,No,No
+Bonus Saver Account - UNITY,"Unity Bank Limited (trading as Reliance Bank, Bankstown City Unity Bank and Unity Bank)",https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1,Bonus_Saver_-_UNITY,Succeeded,No,No,No,No,No
+Pensioner Security Account - UNITY,"Unity Bank Limited (trading as Reliance Bank, Bankstown City Unity Bank and Unity Bank)",https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1,Pensioner_Security_-_UNITY,Succeeded,Yes,No,No,No,No
+Power-up eSaver Account - UNITY,"Unity Bank Limited (trading as Reliance Bank, Bankstown City Unity Bank and Unity Bank)",https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1,Power-up_eSaver_-_UNITY,Succeeded,No,No,No,No,No
+Christmas Savings Account - UNITY,"Unity Bank Limited (trading as Reliance Bank, Bankstown City Unity Bank and Unity Bank)",https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1,Christmas_Savings_-_UNITY,Succeeded,No,No,No,No,Yes
+Up Saver,Up Bank,https://api.up.com.au/cds-au/v1,up-saver,Succeeded,No,No,No,No,No
+Bonus Saver Account,Victoria Teachers Limited (trading as Bank First),https://public.cdr.bankfirst.com.au/cds-au/v1,7001a0c9-b435-4dae-b386-f1cabd79229f,Succeeded,No,No,No,No,No
+Cash Management Account,Victoria Teachers Limited (trading as Bank First),https://public.cdr.bankfirst.com.au/cds-au/v1,625c81d6-bc13-4c5b-a175-35df54187dfc,Succeeded,No,No,Yes,No,No
+Christmas Club Account,Victoria Teachers Limited (trading as Bank First),https://public.cdr.bankfirst.com.au/cds-au/v1,6690c88c-04b8-4c36-8a56-cec0909f8ad4,Succeeded,No,No,No,No,Yes
+First Access Account,Victoria Teachers Limited (trading as Bank First),https://public.cdr.bankfirst.com.au/cds-au/v1,e0589ed4-b32b-4d7d-9c60-2ad88b038e11,Succeeded,No,Yes,No,No,No
+First Home Bonus Saver Account,Victoria Teachers Limited (trading as Bank First),https://public.cdr.bankfirst.com.au/cds-au/v1,6512a9e8-baef-49b8-b8b2-ee2ee97ee50e,Succeeded,No,No,No,No,No
+First Saver Account,Victoria Teachers Limited (trading as Bank First),https://public.cdr.bankfirst.com.au/cds-au/v1,2e9788d2-636a-4c59-9f2b-1e23935028ff,Succeeded,No,Yes,No,No,No
+Online Saver Account,Victoria Teachers Limited (trading as Bank First),https://public.cdr.bankfirst.com.au/cds-au/v1,c4738728-0e16-4957-b37b-5547a99d56c4,Succeeded,No,No,No,No,No
+Pension Account,Victoria Teachers Limited (trading as Bank First),https://public.cdr.bankfirst.com.au/cds-au/v1,523398f7-b767-446a-b4f7-ee26025a82ba,Succeeded,Yes,No,No,No,No
+CASH MANAGER ONLINE,Warwick Credit Union Ltd,https://openbanking.wcu.com.au/OpenBanking/cds-au/v1,S4,Succeeded,No,No,Yes,No,No
+CASH MANAGER PLUS,Warwick Credit Union Ltd,https://openbanking.wcu.com.au/OpenBanking/cds-au/v1,S3,Succeeded,No,No,Yes,No,No
+CHRISTMAS CLUB,Warwick Credit Union Ltd,https://openbanking.wcu.com.au/OpenBanking/cds-au/v1,S9,Succeeded,No,No,No,No,Yes
+CHOICE ACCOUNT,Warwick Credit Union Ltd,https://openbanking.wcu.com.au/OpenBanking/cds-au/v1,S6,Succeeded,No,No,No,No,No
+PENSIONER CHOICE,Warwick Credit Union Ltd,https://openbanking.wcu.com.au/OpenBanking/cds-au/v1,S10,Succeeded,Yes,No,No,No,No
+Westpac Life,Westpac Banking Corporation,https://digital-api.westpac.com.au/cds-au/v1,SavLife,Succeeded,No,No,No,No,No
+Westpac eSaver,Westpac Banking Corporation,https://digital-api.westpac.com.au/cds-au/v1,SavESaver,Succeeded,No,No,No,No,No
+Bump Savings,Westpac Banking Corporation,https://digital-api.westpac.com.au/cds-au/v1,SavBump,Succeeded,No,Yes,No,No,No
+Cash Management Account,Westpac Banking Corporation,https://digital-api.westpac.com.au/cds-au/v1,BTCMA,Succeeded,No,No,Yes,No,No
+Cash Management Account Saver,Westpac Banking Corporation,https://digital-api.westpac.com.au/cds-au/v1,BTCMASaver,Succeeded,No,No,Yes,No,No
+Cash Investment Account,Westpac Banking Corporation,https://digital-api.westpac.com.au/cds-au/v1,WestpacCashInvestmentAcc,Succeeded,No,No,No,No,No
+Westpac 55+ and Retired,Westpac Banking Corporation,https://digital-api.westpac.com.au/cds-au/v1,TrChoice55,Succeeded,Yes,No,No,No,No
+Westpac Choice,Westpac Banking Corporation,https://digital-api.westpac.com.au/cds-au/v1,TrChoice,Succeeded,No,No,No,No,No
+CHRISTMAS,Woolworths Team Bank Limited,https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1,S2,Succeeded,No,No,No,No,Yes
+CASH MANAGEMENT,Woolworths Team Bank Limited,https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1,S7,Succeeded,No,No,Yes,No,No
+RETIREMENT ACCOUNT,Woolworths Team Bank Limited,https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1,S21,Succeeded,Yes,No,No,No,No
+RETIREMENT ACCOUNT,Woolworths Team Bank Limited,https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1,S20,Succeeded,Yes,No,No,No,No
+NETPLUS,Woolworths Team Bank Limited,https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1,S10,Succeeded,No,No,No,No,No
+GOAL,Woolworths Team Bank Limited,https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1,S9,Succeeded,No,No,No,No,No
+SAVERPLUS,Woolworths Team Bank Limited,https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1,S6,Succeeded,No,No,No,No,No
+GOAL,Woolworths Team Bank Limited,https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1,S8,Succeeded,No,No,No,No,No
